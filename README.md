@@ -11,21 +11,21 @@ but does NOT show up in preview.
 ## 📘 C & C++
 
 #### Personal Projects
-
+<!--
 - [Matrix Calculator CLI](https://github.com/your-username/matrix-calculator-cpp)  
   Command-line matrix calculator supporting multiple operations.
 
 - [Random Number Game](https://github.com/your-username/random-game-cpp)  
   Terminal-based game using basic loops and conditionals.
-
+-->
 #### 🍴 Forked
-
+<!--
 - [Data Structures Playground](https://github.com/your-username/fork-dsa-lab)  
   Forked repo with a clean layout of classic DSA code samples.
 
 - [C++ Templates & Tricks](https://github.com/your-username/fork-cpp-tips)  
   C++ best practices, modern syntax, and usage tips.
-
+-->
 ---
 
 ## 🧾 Verilog
