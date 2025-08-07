@@ -21,7 +21,7 @@ but does NOT show up in preview.
 - [Console Utils](https://github.com/al-nusrati/ConsoleUtils)  
  Console utility file for visual appeal in projects
 
-
+<!-- 
 - [Matrix Calculator CLI](https://github.com/your-username/matrix-calculator-cpp)  
   Command-line matrix calculator supporting multiple operations.
 
