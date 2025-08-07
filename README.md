@@ -11,16 +11,17 @@ but does NOT show up in preview.
 ## 📘 C & C++
 
 #### Personal Projects
-- [File Copier](https://github.com/al-nusrati/FileCopier)
-  File text copier.
+- [File Copier](https://github.com/al-nusrati/FileCopier)  
+ File text copier.  
+ _(Based on Console Application Template)_
 
-- [Console Application Template](https://github.com/al-nusrati/ConsoleAppTemplate)
-  Template for console file projects
+- [Console Application Template](https://github.com/al-nusrati/ConsoleAppTemplate)  
+ Template for console file projects
   
-- [Console Utils](https://github.com/al-nusrati/ConsoleUtils)
-  Console utiliray file for visual appeal in projects
+- [Console Utils](https://github.com/al-nusrati/ConsoleUtils)  
+ Console utility file for visual appeal in projects
 
-<!--
+
 - [Matrix Calculator CLI](https://github.com/your-username/matrix-calculator-cpp)  
   Command-line matrix calculator supporting multiple operations.
 
